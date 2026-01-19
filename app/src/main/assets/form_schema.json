@@ -1,0 +1,21 @@
+{
+  "type": "object",
+  "required": ["name", "age", "gender"],
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 3
+    },
+    "age": {
+      "type": "number",
+      "minimum": 18
+    },
+    "subscribe": {
+      "type": "boolean"
+    },
+    "gender": {
+      "type": "string",
+      "enum": ["Male", "Female", "Other"]
+    }
+  }
+}
