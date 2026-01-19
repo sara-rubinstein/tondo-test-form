@@ -102,8 +102,8 @@ Defines field rendering order following JSON Forms convention.
 ### Steps
 1. **Clone the repository**:
 ```bash
-   git clone https://github.com/sara-rubinstein/tondo-dynamic-form.git
-   cd tondo-dynamic-form
+   git clone https://github.com/sara-rubinstein/tondo-test-form.git
+   cd tondo-test-form
 ```
 
 2. **Open in Android Studio**:
