@@ -187,6 +187,7 @@ D/FORM_RESULT: {"name":"John Doe","age":25,"subscribe":true,"gender":"Male"}
 
 ### Short-term Improvements
 - 🔄 Implement a proper JSON Schema validation library (e.g., `everit-org/json-schema`)
+- 📝 Add more validation as correct characters
 - 📝 Add more field types: email, date picker, password, multi-select
 - 💾 Add form state persistence (remember values on rotation)
 - 🧪 Add unit tests for ViewModel validation logic
